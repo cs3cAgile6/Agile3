@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/.vscode": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/Content": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/DerivedDataCache": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/Intermediate": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/Saved": true
+	}
+}
