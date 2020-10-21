@@ -8,7 +8,9 @@
 
 class APawnTurret;
 class APawnTank;
+class ACharacterTank;
 class APlayerControllerBase;
+
 UCLASS()
 class TOONTANKS_API ATankGameModeBase : public AGameModeBase
 {

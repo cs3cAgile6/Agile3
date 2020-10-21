@@ -3,15 +3,15 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Pawn.h"
-#include "PawnBase.generated.h"
+#include "GameFramework/Character.h"
+#include "CharacterBase.generated.h"
 
 class UCapsuleComponent;
 class AProjectileBase;
 class UHealthComponent;
 
 UCLASS()
-class TOONTANKS_API APawnBase : public APawn
+class TOONTANKS_API ACharacterBase : public ACharacter
 {
 	GENERATED_BODY()
 
@@ -40,7 +40,7 @@ private:
 	TSubclassOf<UCameraShake> DeathShake;
 public:
 	// Sets default values for this pawn's properties
-	APawnBase();
+	ACharacterBase();
 	virtual void HandleDestruction();
 
 protected:

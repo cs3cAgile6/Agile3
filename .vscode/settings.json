@@ -1,9 +1,9 @@
 {
 	"files.exclude": {
-		"D:/SCHOOL STUFF/CS 1C/AGILE 3/New folder/Agile3-main/.vscode": true,
-		"D:/SCHOOL STUFF/CS 1C/AGILE 3/New folder/Agile3-main/Content": true,
-		"D:/SCHOOL STUFF/CS 1C/AGILE 3/New folder/Agile3-main/DerivedDataCache": true,
-		"D:/SCHOOL STUFF/CS 1C/AGILE 3/New folder/Agile3-main/Intermediate": true,
-		"D:/SCHOOL STUFF/CS 1C/AGILE 3/New folder/Agile3-main/Saved": true
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/.vscode": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/Content": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/DerivedDataCache": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/Intermediate": true,
+		"D:/DDownload/cs1c/ToonTanksProjectSetup_4.25/ToonTanks/Saved": true
 	}
 }
