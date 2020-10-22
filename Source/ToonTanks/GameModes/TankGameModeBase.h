@@ -8,7 +8,7 @@
 
 class APawnTurret;
 class APawnTank;
-class ACharacterTank;
+class APawnTankEnemy;
 class APlayerControllerBase;
 
 UCLASS()
