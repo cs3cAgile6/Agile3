@@ -1,0 +1,7 @@
+<map id="APawnBase" name="APawnBase">
+<area shape="rect" id="node1" title=" " alt="" coords="140,80,233,107"/>
+<area shape="rect" id="node3" href="$class_a_pawn_tank.html" title=" " alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node4" href="$class_a_pawn_tank_enemy.html" title=" " alt="" coords="121,155,253,181"/>
+<area shape="rect" id="node5" href="$class_a_pawn_turret.html" title=" " alt="" coords="277,155,373,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="155,5,218,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="APawnTankEnemy" name="APawnTankEnemy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,247,137,273"/>
+<area shape="rect" id="node2" href="$class_a_pawn_base.html" title=" " alt="" coords="10,81,103,108"/>
+<area shape="rect" id="node4" href="$class_a_pawn_tank.html" title=" " alt="" coords="78,157,169,184"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,5,88,32"/>
+</map>

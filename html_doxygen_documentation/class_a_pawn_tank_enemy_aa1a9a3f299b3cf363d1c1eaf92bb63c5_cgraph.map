@@ -1,0 +1,5 @@
+<map id="APawnTankEnemy::Tick" name="APawnTankEnemy::Tick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,169,69"/>
+<area shape="rect" id="node2" href="$class_a_pawn_tank_enemy.html#a702a17fac9948fb97f1e5a7b9ee4f00f" title=" " alt="" coords="217,5,447,47"/>
+<area shape="rect" id="node3" href="$class_a_pawn_base.html#a64cc17273f22a954c01be94419e99f5c" title=" " alt="" coords="246,71,418,98"/>
+</map>
