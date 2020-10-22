@@ -73,6 +73,8 @@ void ATankGameModeBase::HandleGameOver(bool PlayerWon)
 int32 ATankGameModeBase::GetTargetTurretCount()
 {
     TArray<AActor*> TurretActors;
+    TArray<AActor*> TankActors;
     UGameplayStatics::GetAllActorsOfClass(GetWorld(), APawnTurret::StaticClass(), TurretActors);
-    return TurretActors.Num();
+    UGameplayStatics::GetAllActorsOfClass(GetWorld(), APawnTankEnemy::StaticClass(), TankActors);
+    return TurretActors.Num() + TankActors.Num();
 }
